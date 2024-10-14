@@ -74,7 +74,7 @@ const Footer = () => {
         </svg>
       </button>
       <span className="text-[15px] opacity-50 sm:row-start-3 sm:flex sm:justify-end md:col-span-2 md:col-start-4 md:row-start-2 md:self-end">
-        Copyright 2019. All Rights Reserved
+        
       </span>
     </footer>
   );
